@@ -21,7 +21,7 @@ internal class NumberGuesser
             var previousGuess = -1;
 
             // Start the game message
-            Console.WriteLine("I'm going to think about a number between 1 and 100, that you are going to guess.");
+            Console.WriteLine("I'm going to think of a number between 1 and 100, that you are going to try and guess.");
 
             // Start the game loop
             while (true)
