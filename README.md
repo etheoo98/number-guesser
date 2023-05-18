@@ -1,2 +1,2 @@
 # number-guesser
-A simple console application made for a beginner's programming course.
+C# console application made for a beginners programming course.
